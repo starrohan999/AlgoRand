@@ -1,0 +1,9 @@
+My address: PAAEITF3EUXU6YSRCEU5MZNMLR5OQYHQBRC2L2TGG6NJFM7U2QOJFDD5AQ
+My passphrase: tilt gap then romance satoshi mirror frown giraffe daughter offer net convince smart crew elbow canyon van random magnet goose casino flip will absent large
+
+Fund the wallet via Algorand Dispenser: https://dispenser.testnet.aws.algodev.network/?account=PAAEITF3EUXU6YSRCEU5MZNMLR5OQYHQBRC2L2TGG6NJFM7U2QOJFDD5AQ
+Press any key when the account is funded
+
+PureStack->
+curl -X GET "https://testnet-algorand.api.purestake.io/ps2/v2/status"
+ -H  "x-api-key:1V2TK9aQG81Uh3VgF45Kp3EirOFfa4Rm1rEBArFV"
